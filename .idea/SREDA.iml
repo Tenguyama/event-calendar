@@ -125,6 +125,12 @@
       <excludeFolder url="file://$MODULE_DIR$/event-calendar-backend/vendor/doctrine/deprecations" />
       <excludeFolder url="file://$MODULE_DIR$/event-calendar-backend/vendor/phpdocumentor/type-resolver" />
       <excludeFolder url="file://$MODULE_DIR$/event-calendar-backend/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/dataSources" />
+      <excludeFolder url="file://$MODULE_DIR$/event-calendar-backend/storage/framework/cache/data/c0" />
+      <excludeFolder url="file://$MODULE_DIR$/event-calendar-backend/storage/framework/cache/data/ec" />
+      <excludeFolder url="file://$MODULE_DIR$/event-calendar-backend/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/event-calendar-backend/vendor" />
+      <excludeFolder url="file://$MODULE_DIR$/event-calendar-frontend/.idea" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
