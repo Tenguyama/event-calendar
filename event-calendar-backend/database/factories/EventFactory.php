@@ -18,7 +18,7 @@ class EventFactory extends Factory
         return [
             'name' => ucfirst(fake()->words(3, true)),
             'description' => fake()->paragraph(),
-            'datetime' => fake()->dateTimeBetween('2023-11-01','2024-04-30'),
+            'datetime' => fake()->dateTimeBetween('2024-04-01','2024-10-30'),
             'location' => ucfirst(fake()->word()) . ', ' . fake()->city() . ', ' . fake()->country(),
             'type' => fake()->randomElement([
                 EventTypeEnum::MeetingWithAnExpert,
